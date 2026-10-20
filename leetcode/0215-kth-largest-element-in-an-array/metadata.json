@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "problemId": "215",
+  "frontendId": "215",
+  "title": "Kth Largest Element in an Array",
+  "slug": "kth-largest-element-in-an-array",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Divide and Conquer",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Quickselect"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "230 ms",
+  "memory": "35 MB",
+  "submissionId": "2177384747",
+  "acceptedAt": "2026-10-20T19:11:04.455Z",
+  "updatedAt": "2026-10-20T19:11:05.399Z",
+  "url": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+  "version": 1
+}

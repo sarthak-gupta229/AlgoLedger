@@ -11,5 +11,21 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-20T17:51:38.326Z"
+  },
+  {
+    "folderId": "leetcode/0215-kth-largest-element-in-an-array",
+    "frontendId": "215",
+    "title": "Kth Largest Element in an Array",
+    "slug": "kth-largest-element-in-an-array",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Divide and Conquer",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Quickselect"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-20T19:11:04.455Z"
   }
 ]
