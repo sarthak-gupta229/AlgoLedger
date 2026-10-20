@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "39",
+  "frontendId": "39",
+  "title": "Combination Sum",
+  "slug": "combination-sum",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Backtracking"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "9 ms",
+  "memory": "19.7 MB",
+  "submissionId": "2177408988",
+  "acceptedAt": "2026-10-20T19:54:42.337Z",
+  "updatedAt": "2026-10-20T19:54:43.639Z",
+  "url": "https://leetcode.com/problems/combination-sum/",
+  "version": 1
+}
