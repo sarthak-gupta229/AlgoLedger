@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "91",
+  "frontendId": "91",
+  "title": "Decode Ways",
+  "slug": "decode-ways",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "2 ms",
+  "memory": "19.5 MB",
+  "submissionId": "2177319174",
+  "acceptedAt": "2026-10-20T17:51:18.386Z",
+  "updatedAt": "2026-10-20T17:51:19.298Z",
+  "url": "https://leetcode.com/problems/decode-ways/",
+  "version": 1
+}
