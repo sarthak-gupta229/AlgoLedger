@@ -8,7 +8,8 @@
   "Array": [
     "leetcode/0215-kth-largest-element-in-an-array",
     "leetcode/0039-combination-sum",
-    "leetcode/0455-assign-cookies"
+    "leetcode/0455-assign-cookies",
+    "leetcode/0860-lemonade-change"
   ],
   "Divide and Conquer": [
     "leetcode/0215-kth-largest-element-in-an-array"
@@ -30,7 +31,8 @@
     "leetcode/0455-assign-cookies"
   ],
   "Greedy": [
-    "leetcode/0455-assign-cookies"
+    "leetcode/0455-assign-cookies",
+    "leetcode/0860-lemonade-change"
   ],
   "Quicksort": [
     "leetcode/0455-assign-cookies"

@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "890",
+  "frontendId": "860",
+  "title": "Lemonade Change",
+  "slug": "lemonade-change",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Greedy"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "2 ms",
+  "memory": "23.3 MB",
+  "submissionId": "2179150886",
+  "acceptedAt": "2026-10-22T19:34:33.416Z",
+  "updatedAt": "2026-10-22T19:34:34.370Z",
+  "url": "https://leetcode.com/problems/lemonade-change/",
+  "version": 1
+}
