@@ -7,13 +7,15 @@
   ],
   "Array": [
     "leetcode/0215-kth-largest-element-in-an-array",
-    "leetcode/0039-combination-sum"
+    "leetcode/0039-combination-sum",
+    "leetcode/0455-assign-cookies"
   ],
   "Divide and Conquer": [
     "leetcode/0215-kth-largest-element-in-an-array"
   ],
   "Sorting": [
-    "leetcode/0215-kth-largest-element-in-an-array"
+    "leetcode/0215-kth-largest-element-in-an-array",
+    "leetcode/0455-assign-cookies"
   ],
   "Heap (Priority Queue)": [
     "leetcode/0215-kth-largest-element-in-an-array"
@@ -23,5 +25,14 @@
   ],
   "Backtracking": [
     "leetcode/0039-combination-sum"
+  ],
+  "Two Pointers": [
+    "leetcode/0455-assign-cookies"
+  ],
+  "Greedy": [
+    "leetcode/0455-assign-cookies"
+  ],
+  "Quicksort": [
+    "leetcode/0455-assign-cookies"
   ]
 }
