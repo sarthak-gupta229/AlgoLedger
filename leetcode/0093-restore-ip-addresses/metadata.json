@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "93",
+  "frontendId": "93",
+  "title": "Restore IP Addresses",
+  "slug": "restore-ip-addresses",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Backtracking"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "19 ms",
+  "memory": "19.2 MB",
+  "submissionId": "2179990529",
+  "acceptedAt": "2026-10-23T20:08:01.436Z",
+  "updatedAt": "2026-10-23T20:08:02.400Z",
+  "url": "https://leetcode.com/problems/restore-ip-addresses/",
+  "version": 1
+}

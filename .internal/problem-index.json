@@ -69,5 +69,18 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-22T19:34:33.416Z"
+  },
+  {
+    "folderId": "leetcode/0093-restore-ip-addresses",
+    "frontendId": "93",
+    "title": "Restore IP Addresses",
+    "slug": "restore-ip-addresses",
+    "difficulty": "Medium",
+    "topics": [
+      "String",
+      "Backtracking"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-23T20:08:01.436Z"
   }
 ]

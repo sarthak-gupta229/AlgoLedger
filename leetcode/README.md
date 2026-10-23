@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**5** problems solved — 2 Easy · 3 Medium · 0 Hard
+**6** problems solved — 2 Easy · 4 Medium · 0 Hard
 
 ## Contents
 
@@ -16,6 +16,7 @@
 | --- | --- | --- | --- |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium | Array, Backtracking |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium | String, Dynamic Programming |
+| 0093 | [Restore IP Addresses](0093-restore-ip-addresses/README.md) | Medium | String, Backtracking |
 | 0215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/README.md) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy | Array, Two Pointers, Greedy, Sorting, Quicksort |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | Array, Greedy |
@@ -29,12 +30,13 @@
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Array, Two Pointers, Greedy, Sorting, Quicksort |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Array, Greedy |
 
-### Medium (3)
+### Medium (4)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Array, Backtracking |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | String, Dynamic Programming |
+| 0093 | [Restore IP Addresses](0093-restore-ip-addresses/README.md) | String, Backtracking |
 | 0215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/README.md) | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect |
 
 ### Hard (0)
@@ -56,11 +58,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Backtracking (1)</summary>
+<summary>Backtracking (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium |
+| 0093 | [Restore IP Addresses](0093-restore-ip-addresses/README.md) | Medium |
 
 </details>
 
@@ -130,11 +133,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>String (1)</summary>
+<summary>String (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
+| 0093 | [Restore IP Addresses](0093-restore-ip-addresses/README.md) | Medium |
 
 </details>
 
@@ -150,12 +154,13 @@ _No problems solved yet._
 ## By Language
 
 <details>
-<summary>python3 (5)</summary>
+<summary>python3 (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
+| 0093 | [Restore IP Addresses](0093-restore-ip-addresses/README.md) | Medium |
 | 0215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/README.md) | Medium |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy |
@@ -166,6 +171,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0093 | [Restore IP Addresses](0093-restore-ip-addresses/README.md) | Medium | 2026-10-23 |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | 2026-10-22 |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy | 2026-10-22 |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium | 2026-10-20 |

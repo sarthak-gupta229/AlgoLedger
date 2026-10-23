@@ -1,6 +1,7 @@
 {
   "String": [
-    "leetcode/0091-decode-ways"
+    "leetcode/0091-decode-ways",
+    "leetcode/0093-restore-ip-addresses"
   ],
   "Dynamic Programming": [
     "leetcode/0091-decode-ways"
@@ -25,7 +26,8 @@
     "leetcode/0215-kth-largest-element-in-an-array"
   ],
   "Backtracking": [
-    "leetcode/0039-combination-sum"
+    "leetcode/0039-combination-sum",
+    "leetcode/0093-restore-ip-addresses"
   ],
   "Two Pointers": [
     "leetcode/0455-assign-cookies"
