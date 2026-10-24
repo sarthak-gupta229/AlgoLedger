@@ -6,5 +6,8 @@
     "leetcode/0455-assign-cookies",
     "leetcode/0860-lemonade-change",
     "leetcode/0093-restore-ip-addresses"
+  ],
+  "postgresql": [
+    "leetcode/1731-the-number-of-employees-which-report-to-each-employee"
   ]
 }

@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**6** problems solved — 2 Easy · 4 Medium · 0 Hard
+**7** problems solved — 3 Easy · 4 Medium · 0 Hard
 
 ## Contents
 
@@ -20,15 +20,17 @@
 | 0215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/README.md) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy | Array, Two Pointers, Greedy, Sorting, Quicksort |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | Array, Greedy |
+| 1731 | [The Number of Employees Which Report to Each Employee](1731-the-number-of-employees-which-report-to-each-employee/README.md) | Easy | Database |
 
 ## By Difficulty
 
-### Easy (2)
+### Easy (3)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Array, Two Pointers, Greedy, Sorting, Quicksort |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Array, Greedy |
+| 1731 | [The Number of Employees Which Report to Each Employee](1731-the-number-of-employees-which-report-to-each-employee/README.md) | Database |
 
 ### Medium (4)
 
@@ -64,6 +66,15 @@ _No problems solved yet._
 | --- | --- | --- |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium |
 | 0093 | [Restore IP Addresses](0093-restore-ip-addresses/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Database (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 1731 | [The Number of Employees Which Report to Each Employee](1731-the-number-of-employees-which-report-to-each-employee/README.md) | Easy |
 
 </details>
 
@@ -154,6 +165,15 @@ _No problems solved yet._
 ## By Language
 
 <details>
+<summary>postgresql (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 1731 | [The Number of Employees Which Report to Each Employee](1731-the-number-of-employees-which-report-to-each-employee/README.md) | Easy |
+
+</details>
+
+<details>
 <summary>python3 (6)</summary>
 
 | # | Title | Difficulty |
@@ -171,6 +191,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 1731 | [The Number of Employees Which Report to Each Employee](1731-the-number-of-employees-which-report-to-each-employee/README.md) | Easy | 2026-10-24 |
 | 0093 | [Restore IP Addresses](0093-restore-ip-addresses/README.md) | Medium | 2026-10-23 |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | 2026-10-22 |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy | 2026-10-22 |

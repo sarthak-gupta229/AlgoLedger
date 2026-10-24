@@ -82,5 +82,17 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-23T20:08:01.436Z"
+  },
+  {
+    "folderId": "leetcode/1731-the-number-of-employees-which-report-to-each-employee",
+    "frontendId": "1731",
+    "title": "The Number of Employees Which Report to Each Employee",
+    "slug": "the-number-of-employees-which-report-to-each-employee",
+    "difficulty": "Easy",
+    "topics": [
+      "Database"
+    ],
+    "language": "postgresql",
+    "acceptedAt": "2026-10-24T18:26:26.954Z"
   }
 ]

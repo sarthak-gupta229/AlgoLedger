@@ -5,6 +5,7 @@
     "leetcode/0039-combination-sum",
     "leetcode/0455-assign-cookies",
     "leetcode/0860-lemonade-change",
-    "leetcode/0093-restore-ip-addresses"
+    "leetcode/0093-restore-ip-addresses",
+    "leetcode/1731-the-number-of-employees-which-report-to-each-employee"
   ]
 }

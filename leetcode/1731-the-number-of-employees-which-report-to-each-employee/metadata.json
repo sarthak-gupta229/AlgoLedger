@@ -1,0 +1,20 @@
+{
+  "platform": "leetcode",
+  "problemId": "1882",
+  "frontendId": "1731",
+  "title": "The Number of Employees Which Report to Each Employee",
+  "slug": "the-number-of-employees-which-report-to-each-employee",
+  "difficulty": "Easy",
+  "topics": [
+    "Database"
+  ],
+  "companyTags": [],
+  "language": "postgresql",
+  "runtime": "354 ms",
+  "memory": "0B",
+  "submissionId": "2180778671",
+  "acceptedAt": "2026-10-24T18:26:26.954Z",
+  "updatedAt": "2026-10-24T18:26:28.106Z",
+  "url": "https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/",
+  "version": 1
+}
