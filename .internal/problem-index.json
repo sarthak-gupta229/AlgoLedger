@@ -94,5 +94,20 @@
     ],
     "language": "postgresql",
     "acceptedAt": "2026-10-24T18:26:26.954Z"
+  },
+  {
+    "folderId": "leetcode/0669-trim-a-binary-search-tree",
+    "frontendId": "669",
+    "title": "Trim a Binary Search Tree",
+    "slug": "trim-a-binary-search-tree",
+    "difficulty": "Medium",
+    "topics": [
+      "Tree",
+      "Depth-First Search",
+      "Binary Search Tree",
+      "Binary Tree"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-25T20:02:57.208Z"
   }
 ]

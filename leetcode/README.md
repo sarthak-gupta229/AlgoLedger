@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**7** problems solved — 3 Easy · 4 Medium · 0 Hard
+**8** problems solved — 3 Easy · 5 Medium · 0 Hard
 
 ## Contents
 
@@ -19,6 +19,7 @@
 | 0093 | [Restore IP Addresses](0093-restore-ip-addresses/README.md) | Medium | String, Backtracking |
 | 0215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/README.md) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy | Array, Two Pointers, Greedy, Sorting, Quicksort |
+| 0669 | [Trim a Binary Search Tree](0669-trim-a-binary-search-tree/README.md) | Medium | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | Array, Greedy |
 | 1731 | [The Number of Employees Which Report to Each Employee](1731-the-number-of-employees-which-report-to-each-employee/README.md) | Easy | Database |
 
@@ -32,7 +33,7 @@
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Array, Greedy |
 | 1731 | [The Number of Employees Which Report to Each Employee](1731-the-number-of-employees-which-report-to-each-employee/README.md) | Database |
 
-### Medium (4)
+### Medium (5)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -40,6 +41,7 @@
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | String, Dynamic Programming |
 | 0093 | [Restore IP Addresses](0093-restore-ip-addresses/README.md) | String, Backtracking |
 | 0215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/README.md) | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect |
+| 0669 | [Trim a Binary Search Tree](0669-trim-a-binary-search-tree/README.md) | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 
 ### Hard (0)
 
@@ -70,11 +72,38 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Binary Search Tree (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0669 | [Trim a Binary Search Tree](0669-trim-a-binary-search-tree/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Binary Tree (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0669 | [Trim a Binary Search Tree](0669-trim-a-binary-search-tree/README.md) | Medium |
+
+</details>
+
+<details>
 <summary>Database (1)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 1731 | [The Number of Employees Which Report to Each Employee](1731-the-number-of-employees-which-report-to-each-employee/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Depth-First Search (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0669 | [Trim a Binary Search Tree](0669-trim-a-binary-search-tree/README.md) | Medium |
 
 </details>
 
@@ -154,6 +183,15 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Tree (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0669 | [Trim a Binary Search Tree](0669-trim-a-binary-search-tree/README.md) | Medium |
+
+</details>
+
+<details>
 <summary>Two Pointers (1)</summary>
 
 | # | Title | Difficulty |
@@ -174,7 +212,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>python3 (6)</summary>
+<summary>python3 (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -183,6 +221,7 @@ _No problems solved yet._
 | 0093 | [Restore IP Addresses](0093-restore-ip-addresses/README.md) | Medium |
 | 0215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/README.md) | Medium |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
+| 0669 | [Trim a Binary Search Tree](0669-trim-a-binary-search-tree/README.md) | Medium |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy |
 
 </details>
@@ -191,6 +230,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0669 | [Trim a Binary Search Tree](0669-trim-a-binary-search-tree/README.md) | Medium | 2026-10-25 |
 | 1731 | [The Number of Employees Which Report to Each Employee](1731-the-number-of-employees-which-report-to-each-employee/README.md) | Easy | 2026-10-24 |
 | 0093 | [Restore IP Addresses](0093-restore-ip-addresses/README.md) | Medium | 2026-10-23 |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | 2026-10-22 |

@@ -41,5 +41,17 @@
   ],
   "Database": [
     "leetcode/1731-the-number-of-employees-which-report-to-each-employee"
+  ],
+  "Tree": [
+    "leetcode/0669-trim-a-binary-search-tree"
+  ],
+  "Depth-First Search": [
+    "leetcode/0669-trim-a-binary-search-tree"
+  ],
+  "Binary Search Tree": [
+    "leetcode/0669-trim-a-binary-search-tree"
+  ],
+  "Binary Tree": [
+    "leetcode/0669-trim-a-binary-search-tree"
   ]
 }
