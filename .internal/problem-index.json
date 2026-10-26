@@ -109,5 +109,20 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-25T20:02:57.208Z"
+  },
+  {
+    "folderId": "leetcode/0435-non-overlapping-intervals",
+    "frontendId": "435",
+    "title": "Non-overlapping Intervals",
+    "slug": "non-overlapping-intervals",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Sorting"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-26T06:21:22.186Z"
   }
 ]

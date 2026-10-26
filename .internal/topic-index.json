@@ -4,20 +4,23 @@
     "leetcode/0093-restore-ip-addresses"
   ],
   "Dynamic Programming": [
-    "leetcode/0091-decode-ways"
+    "leetcode/0091-decode-ways",
+    "leetcode/0435-non-overlapping-intervals"
   ],
   "Array": [
     "leetcode/0215-kth-largest-element-in-an-array",
     "leetcode/0039-combination-sum",
     "leetcode/0455-assign-cookies",
-    "leetcode/0860-lemonade-change"
+    "leetcode/0860-lemonade-change",
+    "leetcode/0435-non-overlapping-intervals"
   ],
   "Divide and Conquer": [
     "leetcode/0215-kth-largest-element-in-an-array"
   ],
   "Sorting": [
     "leetcode/0215-kth-largest-element-in-an-array",
-    "leetcode/0455-assign-cookies"
+    "leetcode/0455-assign-cookies",
+    "leetcode/0435-non-overlapping-intervals"
   ],
   "Heap (Priority Queue)": [
     "leetcode/0215-kth-largest-element-in-an-array"
@@ -34,7 +37,8 @@
   ],
   "Greedy": [
     "leetcode/0455-assign-cookies",
-    "leetcode/0860-lemonade-change"
+    "leetcode/0860-lemonade-change",
+    "leetcode/0435-non-overlapping-intervals"
   ],
   "Quicksort": [
     "leetcode/0455-assign-cookies"
