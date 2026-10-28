@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**10** problems solved — 3 Easy · 7 Medium · 0 Hard
+**11** problems solved — 3 Easy · 8 Medium · 0 Hard
 
 ## Contents
 
@@ -15,6 +15,7 @@
 | # | Title | Difficulty | Topics |
 | --- | --- | --- | --- |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium | Array, Backtracking |
+| 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Medium | Array, Dynamic Programming, Greedy |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium | Array, Dynamic Programming, Greedy |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium | String, Dynamic Programming |
 | 0093 | [Restore IP Addresses](0093-restore-ip-addresses/README.md) | Medium | String, Backtracking |
@@ -35,11 +36,12 @@
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Array, Greedy |
 | 1731 | [The Number of Employees Which Report to Each Employee](1731-the-number-of-employees-which-report-to-each-employee/README.md) | Database |
 
-### Medium (7)
+### Medium (8)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Array, Backtracking |
+| 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Array, Dynamic Programming, Greedy |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Array, Dynamic Programming, Greedy |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | String, Dynamic Programming |
 | 0093 | [Restore IP Addresses](0093-restore-ip-addresses/README.md) | String, Backtracking |
@@ -54,11 +56,12 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (6)</summary>
+<summary>Array (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium |
+| 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Medium |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 | 0215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/README.md) | Medium |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium |
@@ -123,10 +126,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Dynamic Programming (3)</summary>
+<summary>Dynamic Programming (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Medium |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium |
@@ -134,10 +138,11 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Greedy (4)</summary>
+<summary>Greedy (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
+| 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Medium |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
@@ -223,11 +228,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>python3 (9)</summary>
+<summary>python3 (10)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium |
+| 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Medium |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
 | 0093 | [Restore IP Addresses](0093-restore-ip-addresses/README.md) | Medium |
@@ -243,6 +249,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Medium | 2026-10-28 |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy | 2026-10-28 |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium | 2026-10-28 |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | 2026-10-28 |
