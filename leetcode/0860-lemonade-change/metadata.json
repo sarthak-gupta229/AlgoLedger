@@ -11,11 +11,11 @@
   ],
   "companyTags": [],
   "language": "python3",
-  "runtime": "2 ms",
-  "memory": "23.3 MB",
-  "submissionId": "2179150886",
-  "acceptedAt": "2026-10-22T19:34:33.416Z",
-  "updatedAt": "2026-10-22T19:34:34.370Z",
+  "runtime": "4 ms",
+  "memory": "23.5 MB",
+  "submissionId": "2183970015",
+  "acceptedAt": "2026-10-28T14:17:06.233Z",
+  "updatedAt": "2026-10-28T14:17:07.217Z",
   "url": "https://leetcode.com/problems/lemonade-change/",
-  "version": 1
+  "version": 2
 }

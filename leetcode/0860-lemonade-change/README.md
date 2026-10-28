@@ -6,9 +6,9 @@
 
 | Field | Value |
 | --- | --- |
-| Runtime | 2 ms |
-| Memory | 23.3 MB |
-| Submission Date | 2026-10-22T19:34:33.416Z |
+| Runtime | 4 ms |
+| Memory | 23.5 MB |
+| Submission Date | 2026-10-28T14:17:06.233Z |
 | Platform | leetcode |
 
 ## Problem Statement
@@ -77,26 +77,21 @@ class Solution:
             if bills[i]==5:
                 five+=1
             elif bills[i]==10:
-                if five>0:
+                if five>=1:
                     five-=1
-                    ten+=1
+                    ten+=1 
                 else:
                     return False
             else:
                 if five>=1 and ten>=1:
                     five-=1
-                    ten-=1
+                    ten-=1 
                 elif five>=3:
                     five-=3
-                else:
+                else :
                     return False
         return True
-                
-                
 
-                
-                
-        
 ```
 
 [View on LeetCode](https://leetcode.com/problems/lemonade-change/)
