@@ -8,6 +8,7 @@
     "leetcode/0093-restore-ip-addresses",
     "leetcode/1731-the-number-of-employees-which-report-to-each-employee",
     "leetcode/0669-trim-a-binary-search-tree",
-    "leetcode/0435-non-overlapping-intervals"
+    "leetcode/0435-non-overlapping-intervals",
+    "leetcode/0055-jump-game"
   ]
 }

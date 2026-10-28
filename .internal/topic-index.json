@@ -5,14 +5,16 @@
   ],
   "Dynamic Programming": [
     "leetcode/0091-decode-ways",
-    "leetcode/0435-non-overlapping-intervals"
+    "leetcode/0435-non-overlapping-intervals",
+    "leetcode/0055-jump-game"
   ],
   "Array": [
     "leetcode/0215-kth-largest-element-in-an-array",
     "leetcode/0039-combination-sum",
     "leetcode/0455-assign-cookies",
     "leetcode/0860-lemonade-change",
-    "leetcode/0435-non-overlapping-intervals"
+    "leetcode/0435-non-overlapping-intervals",
+    "leetcode/0055-jump-game"
   ],
   "Divide and Conquer": [
     "leetcode/0215-kth-largest-element-in-an-array"
@@ -38,7 +40,8 @@
   "Greedy": [
     "leetcode/0455-assign-cookies",
     "leetcode/0860-lemonade-change",
-    "leetcode/0435-non-overlapping-intervals"
+    "leetcode/0435-non-overlapping-intervals",
+    "leetcode/0055-jump-game"
   ],
   "Quicksort": [
     "leetcode/0455-assign-cookies"
