@@ -14,11 +14,11 @@
   ],
   "companyTags": [],
   "language": "python3",
-  "runtime": "17 ms",
-  "memory": "21.8 MB",
-  "submissionId": "2179140105",
-  "acceptedAt": "2026-10-22T19:16:13.208Z",
-  "updatedAt": "2026-10-22T19:16:14.033Z",
+  "runtime": "20 ms",
+  "memory": "21.6 MB",
+  "submissionId": "2184011441",
+  "acceptedAt": "2026-10-28T15:11:00.666Z",
+  "updatedAt": "2026-10-28T15:11:01.609Z",
   "url": "https://leetcode.com/problems/assign-cookies/",
-  "version": 1
+  "version": 2
 }

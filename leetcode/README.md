@@ -243,13 +243,13 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy | 2026-10-28 |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium | 2026-10-28 |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | 2026-10-28 |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium | 2026-10-26 |
 | 0669 | [Trim a Binary Search Tree](0669-trim-a-binary-search-tree/README.md) | Medium | 2026-10-25 |
 | 1731 | [The Number of Employees Which Report to Each Employee](1731-the-number-of-employees-which-report-to-each-employee/README.md) | Easy | 2026-10-24 |
 | 0093 | [Restore IP Addresses](0093-restore-ip-addresses/README.md) | Medium | 2026-10-23 |
-| 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy | 2026-10-22 |
 | 0039 | [Combination Sum](0039-combination-sum/README.md) | Medium | 2026-10-20 |
 | 0215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/README.md) | Medium | 2026-10-20 |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium | 2026-10-20 |

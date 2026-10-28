@@ -6,9 +6,9 @@
 
 | Field | Value |
 | --- | --- |
-| Runtime | 17 ms |
-| Memory | 21.8 MB |
-| Submission Date | 2026-10-22T19:16:13.208Z |
+| Runtime | 20 ms |
+| Memory | 21.6 MB |
+| Submission Date | 2026-10-28T15:11:00.666Z |
 | Platform | leetcode |
 
 ## Problem Statement
@@ -65,19 +65,20 @@ You need to output 2.
 ```py
 class Solution:
     def findContentChildren(self, g: list[int], s: list[int]) -> int:
-        g.sort()
-        s.sort()
         n=len(g)
         m=len(s)
-        l=0
-        r=0
-        count=0
-        while l<n and r<m:
+        g.sort()
+        s.sort()
+        l,r=0,0
+        c=0
+        while l<n and  r<m:
             if g[l]<=s[r]:
                 l+=1
-                count+=1
+                c+=1
             r+=1
-        return count 
+        return c
+        
+
 ```
 
 [View on LeetCode](https://leetcode.com/problems/assign-cookies/)
