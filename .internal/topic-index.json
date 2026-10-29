@@ -16,7 +16,8 @@
     "leetcode/0860-lemonade-change",
     "leetcode/0435-non-overlapping-intervals",
     "leetcode/0055-jump-game",
-    "leetcode/0045-jump-game-ii"
+    "leetcode/0045-jump-game-ii",
+    "leetcode/0056-merge-intervals"
   ],
   "Divide and Conquer": [
     "leetcode/0215-kth-largest-element-in-an-array"
@@ -24,7 +25,8 @@
   "Sorting": [
     "leetcode/0215-kth-largest-element-in-an-array",
     "leetcode/0455-assign-cookies",
-    "leetcode/0435-non-overlapping-intervals"
+    "leetcode/0435-non-overlapping-intervals",
+    "leetcode/0056-merge-intervals"
   ],
   "Heap (Priority Queue)": [
     "leetcode/0215-kth-largest-element-in-an-array"
@@ -47,7 +49,8 @@
     "leetcode/0045-jump-game-ii"
   ],
   "Quicksort": [
-    "leetcode/0455-assign-cookies"
+    "leetcode/0455-assign-cookies",
+    "leetcode/0056-merge-intervals"
   ],
   "Database": [
     "leetcode/1731-the-number-of-employees-which-report-to-each-employee"

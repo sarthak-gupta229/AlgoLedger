@@ -152,5 +152,19 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-28T20:18:33.167Z"
+  },
+  {
+    "folderId": "leetcode/0056-merge-intervals",
+    "frontendId": "56",
+    "title": "Merge Intervals",
+    "slug": "merge-intervals",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Sorting",
+      "Quicksort"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-29T05:56:17.564Z"
   }
 ]
