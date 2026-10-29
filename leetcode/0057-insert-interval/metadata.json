@@ -1,0 +1,20 @@
+{
+  "platform": "leetcode",
+  "problemId": "57",
+  "frontendId": "57",
+  "title": "Insert Interval",
+  "slug": "insert-interval",
+  "difficulty": "Medium",
+  "topics": [
+    "Array"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "2 ms",
+  "memory": "20.9 MB",
+  "submissionId": "2184471301",
+  "acceptedAt": "2026-10-29T05:59:34.302Z",
+  "updatedAt": "2026-10-29T05:59:35.657Z",
+  "url": "https://leetcode.com/problems/insert-interval/",
+  "version": 1
+}

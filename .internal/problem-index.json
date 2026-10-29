@@ -166,5 +166,17 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-29T05:56:17.564Z"
+  },
+  {
+    "folderId": "leetcode/0057-insert-interval",
+    "frontendId": "57",
+    "title": "Insert Interval",
+    "slug": "insert-interval",
+    "difficulty": "Medium",
+    "topics": [
+      "Array"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-29T05:59:34.302Z"
   }
 ]

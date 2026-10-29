@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**12** problems solved — 3 Easy · 9 Medium · 0 Hard
+**13** problems solved — 3 Easy · 10 Medium · 0 Hard
 
 ## Contents
 
@@ -18,6 +18,7 @@
 | 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Medium | Array, Dynamic Programming, Greedy |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium | Array, Dynamic Programming, Greedy |
 | 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Medium | Array, Sorting, Quicksort |
+| 0057 | [Insert Interval](0057-insert-interval/README.md) | Medium | Array |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium | String, Dynamic Programming |
 | 0093 | [Restore IP Addresses](0093-restore-ip-addresses/README.md) | Medium | String, Backtracking |
 | 0215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/README.md) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect |
@@ -37,7 +38,7 @@
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Array, Greedy |
 | 1731 | [The Number of Employees Which Report to Each Employee](1731-the-number-of-employees-which-report-to-each-employee/README.md) | Database |
 
-### Medium (9)
+### Medium (10)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -45,6 +46,7 @@
 | 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Array, Dynamic Programming, Greedy |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Array, Dynamic Programming, Greedy |
 | 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Array, Sorting, Quicksort |
+| 0057 | [Insert Interval](0057-insert-interval/README.md) | Array |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | String, Dynamic Programming |
 | 0093 | [Restore IP Addresses](0093-restore-ip-addresses/README.md) | String, Backtracking |
 | 0215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/README.md) | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect |
@@ -58,7 +60,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (8)</summary>
+<summary>Array (9)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -66,6 +68,7 @@ _No problems solved yet._
 | 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Medium |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 | 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Medium |
+| 0057 | [Insert Interval](0057-insert-interval/README.md) | Medium |
 | 0215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/README.md) | Medium |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
@@ -233,7 +236,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>python3 (11)</summary>
+<summary>python3 (12)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -241,6 +244,7 @@ _No problems solved yet._
 | 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Medium |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 | 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Medium |
+| 0057 | [Insert Interval](0057-insert-interval/README.md) | Medium |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
 | 0093 | [Restore IP Addresses](0093-restore-ip-addresses/README.md) | Medium |
 | 0215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/README.md) | Medium |
@@ -255,6 +259,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0057 | [Insert Interval](0057-insert-interval/README.md) | Medium | 2026-10-29 |
 | 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Medium | 2026-10-29 |
 | 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Medium | 2026-10-28 |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy | 2026-10-28 |
