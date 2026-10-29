@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "problemId": "1502",
+  "frontendId": "1400",
+  "title": "Construct K Palindrome Strings",
+  "slug": "construct-k-palindrome-strings",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Greedy",
+    "Counting"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "45 ms",
+  "memory": "19.8 MB",
+  "submissionId": "2184662489",
+  "acceptedAt": "2026-10-29T11:23:09.846Z",
+  "updatedAt": "2026-10-29T11:23:11.270Z",
+  "url": "https://leetcode.com/problems/construct-k-palindrome-strings/",
+  "version": 1
+}

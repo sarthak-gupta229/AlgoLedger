@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**13** problems solved — 3 Easy · 10 Medium · 0 Hard
+**14** problems solved — 3 Easy · 11 Medium · 0 Hard
 
 ## Contents
 
@@ -26,6 +26,7 @@
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy | Array, Two Pointers, Greedy, Sorting, Quicksort |
 | 0669 | [Trim a Binary Search Tree](0669-trim-a-binary-search-tree/README.md) | Medium | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | Array, Greedy |
+| 1400 | [Construct K Palindrome Strings](1400-construct-k-palindrome-strings/README.md) | Medium | Hash Table, String, Greedy, Counting |
 | 1731 | [The Number of Employees Which Report to Each Employee](1731-the-number-of-employees-which-report-to-each-employee/README.md) | Easy | Database |
 
 ## By Difficulty
@@ -38,7 +39,7 @@
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Array, Greedy |
 | 1731 | [The Number of Employees Which Report to Each Employee](1731-the-number-of-employees-which-report-to-each-employee/README.md) | Database |
 
-### Medium (10)
+### Medium (11)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -52,6 +53,7 @@
 | 0215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/README.md) | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Array, Dynamic Programming, Greedy, Sorting |
 | 0669 | [Trim a Binary Search Tree](0669-trim-a-binary-search-tree/README.md) | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
+| 1400 | [Construct K Palindrome Strings](1400-construct-k-palindrome-strings/README.md) | Hash Table, String, Greedy, Counting |
 
 ### Hard (0)
 
@@ -105,6 +107,15 @@ _No problems solved yet._
 </details>
 
 <details>
+<summary>Counting (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 1400 | [Construct K Palindrome Strings](1400-construct-k-palindrome-strings/README.md) | Medium |
+
+</details>
+
+<details>
 <summary>Database (1)</summary>
 
 | # | Title | Difficulty |
@@ -144,7 +155,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Greedy (5)</summary>
+<summary>Greedy (6)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -153,6 +164,16 @@ _No problems solved yet._
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy |
+| 1400 | [Construct K Palindrome Strings](1400-construct-k-palindrome-strings/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Hash Table (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 1400 | [Construct K Palindrome Strings](1400-construct-k-palindrome-strings/README.md) | Medium |
 
 </details>
 
@@ -197,12 +218,13 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>String (2)</summary>
+<summary>String (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
 | 0093 | [Restore IP Addresses](0093-restore-ip-addresses/README.md) | Medium |
+| 1400 | [Construct K Palindrome Strings](1400-construct-k-palindrome-strings/README.md) | Medium |
 
 </details>
 
@@ -236,7 +258,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>python3 (12)</summary>
+<summary>python3 (13)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -252,6 +274,7 @@ _No problems solved yet._
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
 | 0669 | [Trim a Binary Search Tree](0669-trim-a-binary-search-tree/README.md) | Medium |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy |
+| 1400 | [Construct K Palindrome Strings](1400-construct-k-palindrome-strings/README.md) | Medium |
 
 </details>
 
@@ -259,6 +282,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 1400 | [Construct K Palindrome Strings](1400-construct-k-palindrome-strings/README.md) | Medium | 2026-10-29 |
 | 0057 | [Insert Interval](0057-insert-interval/README.md) | Medium | 2026-10-29 |
 | 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Medium | 2026-10-29 |
 | 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Medium | 2026-10-28 |

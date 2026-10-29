@@ -178,5 +178,20 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-29T05:59:34.302Z"
+  },
+  {
+    "folderId": "leetcode/1400-construct-k-palindrome-strings",
+    "frontendId": "1400",
+    "title": "Construct K Palindrome Strings",
+    "slug": "construct-k-palindrome-strings",
+    "difficulty": "Medium",
+    "topics": [
+      "Hash Table",
+      "String",
+      "Greedy",
+      "Counting"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-29T11:23:09.846Z"
   }
 ]

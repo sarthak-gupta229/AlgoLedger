@@ -1,7 +1,8 @@
 {
   "String": [
     "leetcode/0091-decode-ways",
-    "leetcode/0093-restore-ip-addresses"
+    "leetcode/0093-restore-ip-addresses",
+    "leetcode/1400-construct-k-palindrome-strings"
   ],
   "Dynamic Programming": [
     "leetcode/0091-decode-ways",
@@ -47,7 +48,8 @@
     "leetcode/0860-lemonade-change",
     "leetcode/0435-non-overlapping-intervals",
     "leetcode/0055-jump-game",
-    "leetcode/0045-jump-game-ii"
+    "leetcode/0045-jump-game-ii",
+    "leetcode/1400-construct-k-palindrome-strings"
   ],
   "Quicksort": [
     "leetcode/0455-assign-cookies",
@@ -67,5 +69,11 @@
   ],
   "Binary Tree": [
     "leetcode/0669-trim-a-binary-search-tree"
+  ],
+  "Hash Table": [
+    "leetcode/1400-construct-k-palindrome-strings"
+  ],
+  "Counting": [
+    "leetcode/1400-construct-k-palindrome-strings"
   ]
 }

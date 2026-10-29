@@ -11,7 +11,8 @@
     "leetcode/0055-jump-game",
     "leetcode/0045-jump-game-ii",
     "leetcode/0056-merge-intervals",
-    "leetcode/0057-insert-interval"
+    "leetcode/0057-insert-interval",
+    "leetcode/1400-construct-k-palindrome-strings"
   ],
   "postgresql": [
     "leetcode/1731-the-number-of-employees-which-report-to-each-employee"
