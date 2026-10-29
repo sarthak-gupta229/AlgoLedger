@@ -193,5 +193,19 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-29T11:23:09.846Z"
+  },
+  {
+    "folderId": "leetcode/3432-count-partitions-with-even-sum-difference",
+    "frontendId": "3432",
+    "title": "Count Partitions with Even Sum Difference",
+    "slug": "count-partitions-with-even-sum-difference",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Math",
+      "Prefix Sum"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-29T18:10:51.004Z"
   }
 ]

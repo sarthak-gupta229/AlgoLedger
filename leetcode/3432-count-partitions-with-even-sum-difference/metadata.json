@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "3704",
+  "frontendId": "3432",
+  "title": "Count Partitions with Even Sum Difference",
+  "slug": "count-partitions-with-even-sum-difference",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math",
+    "Prefix Sum"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "1 ms",
+  "memory": "19 MB",
+  "submissionId": "2184974159",
+  "acceptedAt": "2026-10-29T18:10:51.004Z",
+  "updatedAt": "2026-10-29T18:10:51.901Z",
+  "url": "https://leetcode.com/problems/count-partitions-with-even-sum-difference/",
+  "version": 1
+}

@@ -19,7 +19,8 @@
     "leetcode/0055-jump-game",
     "leetcode/0045-jump-game-ii",
     "leetcode/0056-merge-intervals",
-    "leetcode/0057-insert-interval"
+    "leetcode/0057-insert-interval",
+    "leetcode/3432-count-partitions-with-even-sum-difference"
   ],
   "Divide and Conquer": [
     "leetcode/0215-kth-largest-element-in-an-array"
@@ -75,5 +76,11 @@
   ],
   "Counting": [
     "leetcode/1400-construct-k-palindrome-strings"
+  ],
+  "Math": [
+    "leetcode/3432-count-partitions-with-even-sum-difference"
+  ],
+  "Prefix Sum": [
+    "leetcode/3432-count-partitions-with-even-sum-difference"
   ]
 }
