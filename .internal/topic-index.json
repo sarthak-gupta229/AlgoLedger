@@ -8,7 +8,8 @@
     "leetcode/0091-decode-ways",
     "leetcode/0435-non-overlapping-intervals",
     "leetcode/0055-jump-game",
-    "leetcode/0045-jump-game-ii"
+    "leetcode/0045-jump-game-ii",
+    "leetcode/0518-coin-change-ii"
   ],
   "Array": [
     "leetcode/0215-kth-largest-element-in-an-array",
@@ -20,7 +21,8 @@
     "leetcode/0045-jump-game-ii",
     "leetcode/0056-merge-intervals",
     "leetcode/0057-insert-interval",
-    "leetcode/3432-count-partitions-with-even-sum-difference"
+    "leetcode/3432-count-partitions-with-even-sum-difference",
+    "leetcode/0518-coin-change-ii"
   ],
   "Divide and Conquer": [
     "leetcode/0215-kth-largest-element-in-an-array"
@@ -82,5 +84,11 @@
   ],
   "Prefix Sum": [
     "leetcode/3432-count-partitions-with-even-sum-difference"
+  ],
+  "Knapsack Problem": [
+    "leetcode/0518-coin-change-ii"
+  ],
+  "Complete Knapsack": [
+    "leetcode/0518-coin-change-ii"
   ]
 }
