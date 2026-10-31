@@ -1,5 +1,5 @@
-# Runtime: 45 ms
-# Memory: 19.8 MB
+# Runtime: 53 ms
+# Memory: 19.7 MB
 
 class Solution:
     def canConstruct(self, s: str, k: int) -> bool:

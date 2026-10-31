@@ -327,9 +327,9 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 1400 | [Construct K Palindrome Strings](1400-construct-k-palindrome-strings/README.md) | Medium | 2026-10-31 |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium | 2026-10-30 |
 | 3432 | [Count Partitions with Even Sum Difference](3432-count-partitions-with-even-sum-difference/README.md) | Easy | 2026-10-29 |
-| 1400 | [Construct K Palindrome Strings](1400-construct-k-palindrome-strings/README.md) | Medium | 2026-10-29 |
 | 0057 | [Insert Interval](0057-insert-interval/README.md) | Medium | 2026-10-29 |
 | 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Medium | 2026-10-29 |
 | 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Medium | 2026-10-28 |
