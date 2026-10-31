@@ -14,7 +14,8 @@
     "leetcode/0057-insert-interval",
     "leetcode/1400-construct-k-palindrome-strings",
     "leetcode/3432-count-partitions-with-even-sum-difference",
-    "leetcode/0518-coin-change-ii"
+    "leetcode/0518-coin-change-ii",
+    "leetcode/0948-bag-of-tokens"
   ],
   "postgresql": [
     "leetcode/1731-the-number-of-employees-which-report-to-each-employee"
