@@ -16,6 +16,7 @@
     "leetcode/1400-construct-k-palindrome-strings",
     "leetcode/3432-count-partitions-with-even-sum-difference",
     "leetcode/0518-coin-change-ii",
-    "leetcode/0948-bag-of-tokens"
+    "leetcode/0948-bag-of-tokens",
+    "leetcode/0062-unique-paths"
   ]
 }

@@ -9,7 +9,8 @@
     "leetcode/0435-non-overlapping-intervals",
     "leetcode/0055-jump-game",
     "leetcode/0045-jump-game-ii",
-    "leetcode/0518-coin-change-ii"
+    "leetcode/0518-coin-change-ii",
+    "leetcode/0062-unique-paths"
   ],
   "Array": [
     "leetcode/0215-kth-largest-element-in-an-array",
@@ -84,7 +85,8 @@
     "leetcode/1400-construct-k-palindrome-strings"
   ],
   "Math": [
-    "leetcode/3432-count-partitions-with-even-sum-difference"
+    "leetcode/3432-count-partitions-with-even-sum-difference",
+    "leetcode/0062-unique-paths"
   ],
   "Prefix Sum": [
     "leetcode/3432-count-partitions-with-even-sum-difference"
@@ -94,5 +96,8 @@
   ],
   "Complete Knapsack": [
     "leetcode/0518-coin-change-ii"
+  ],
+  "Combinatorics": [
+    "leetcode/0062-unique-paths"
   ]
 }

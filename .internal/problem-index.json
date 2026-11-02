@@ -237,5 +237,19 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-31T16:44:47.306Z"
+  },
+  {
+    "folderId": "leetcode/0062-unique-paths",
+    "frontendId": "62",
+    "title": "Unique Paths",
+    "slug": "unique-paths",
+    "difficulty": "Medium",
+    "topics": [
+      "Math",
+      "Dynamic Programming",
+      "Combinatorics"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-11-02T05:32:14.734Z"
   }
 ]
