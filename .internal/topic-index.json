@@ -10,7 +10,8 @@
     "leetcode/0055-jump-game",
     "leetcode/0045-jump-game-ii",
     "leetcode/0518-coin-change-ii",
-    "leetcode/0062-unique-paths"
+    "leetcode/0062-unique-paths",
+    "leetcode/0063-unique-paths-ii"
   ],
   "Array": [
     "leetcode/0215-kth-largest-element-in-an-array",
@@ -24,7 +25,8 @@
     "leetcode/0057-insert-interval",
     "leetcode/3432-count-partitions-with-even-sum-difference",
     "leetcode/0518-coin-change-ii",
-    "leetcode/0948-bag-of-tokens"
+    "leetcode/0948-bag-of-tokens",
+    "leetcode/0063-unique-paths-ii"
   ],
   "Divide and Conquer": [
     "leetcode/0215-kth-largest-element-in-an-array"
@@ -99,5 +101,8 @@
   ],
   "Combinatorics": [
     "leetcode/0062-unique-paths"
+  ],
+  "Matrix": [
+    "leetcode/0063-unique-paths-ii"
   ]
 }

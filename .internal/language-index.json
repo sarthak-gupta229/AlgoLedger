@@ -16,7 +16,8 @@
     "leetcode/3432-count-partitions-with-even-sum-difference",
     "leetcode/0518-coin-change-ii",
     "leetcode/0948-bag-of-tokens",
-    "leetcode/0062-unique-paths"
+    "leetcode/0062-unique-paths",
+    "leetcode/0063-unique-paths-ii"
   ],
   "postgresql": [
     "leetcode/1731-the-number-of-employees-which-report-to-each-employee"

@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**18** problems solved — 4 Easy · 14 Medium · 0 Hard
+**19** problems solved — 4 Easy · 15 Medium · 0 Hard
 
 ## Contents
 
@@ -20,6 +20,7 @@
 | 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Medium | Array, Sorting, Quicksort |
 | 0057 | [Insert Interval](0057-insert-interval/README.md) | Medium | Array |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium | Math, Dynamic Programming, Combinatorics |
+| 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium | Array, Dynamic Programming, Matrix |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium | String, Dynamic Programming |
 | 0093 | [Restore IP Addresses](0093-restore-ip-addresses/README.md) | Medium | String, Backtracking |
 | 0215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/README.md) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect |
@@ -44,7 +45,7 @@
 | 1731 | [The Number of Employees Which Report to Each Employee](1731-the-number-of-employees-which-report-to-each-employee/README.md) | Database |
 | 3432 | [Count Partitions with Even Sum Difference](3432-count-partitions-with-even-sum-difference/README.md) | Array, Math, Prefix Sum |
 
-### Medium (14)
+### Medium (15)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -54,6 +55,7 @@
 | 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Array, Sorting, Quicksort |
 | 0057 | [Insert Interval](0057-insert-interval/README.md) | Array |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Math, Dynamic Programming, Combinatorics |
+| 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Array, Dynamic Programming, Matrix |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | String, Dynamic Programming |
 | 0093 | [Restore IP Addresses](0093-restore-ip-addresses/README.md) | String, Backtracking |
 | 0215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/README.md) | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect |
@@ -70,7 +72,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (12)</summary>
+<summary>Array (13)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -79,6 +81,7 @@ _No problems solved yet._
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 | 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Medium |
 | 0057 | [Insert Interval](0057-insert-interval/README.md) | Medium |
+| 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
 | 0215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/README.md) | Medium |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
@@ -172,13 +175,14 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Dynamic Programming (6)</summary>
+<summary>Dynamic Programming (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Medium |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium |
+| 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium |
@@ -234,6 +238,15 @@ _No problems solved yet._
 | --- | --- | --- |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium |
 | 3432 | [Count Partitions with Even Sum Difference](3432-count-partitions-with-even-sum-difference/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Matrix (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
 
 </details>
 
@@ -320,7 +333,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>python3 (17)</summary>
+<summary>python3 (18)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -330,6 +343,7 @@ _No problems solved yet._
 | 0056 | [Merge Intervals](0056-merge-intervals/README.md) | Medium |
 | 0057 | [Insert Interval](0057-insert-interval/README.md) | Medium |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium |
+| 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
 | 0093 | [Restore IP Addresses](0093-restore-ip-addresses/README.md) | Medium |
 | 0215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/README.md) | Medium |
@@ -348,6 +362,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium | 2026-11-03 |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium | 2026-11-02 |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium | 2026-10-31 |
 | 1400 | [Construct K Palindrome Strings](1400-construct-k-palindrome-strings/README.md) | Medium | 2026-10-31 |
@@ -362,4 +377,3 @@ _No problems solved yet._
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium | 2026-10-26 |
 | 0669 | [Trim a Binary Search Tree](0669-trim-a-binary-search-tree/README.md) | Medium | 2026-10-25 |
 | 1731 | [The Number of Employees Which Report to Each Employee](1731-the-number-of-employees-which-report-to-each-employee/README.md) | Easy | 2026-10-24 |
-| 0093 | [Restore IP Addresses](0093-restore-ip-addresses/README.md) | Medium | 2026-10-23 |
