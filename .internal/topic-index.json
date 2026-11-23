@@ -13,7 +13,8 @@
     "leetcode/0062-unique-paths",
     "leetcode/0063-unique-paths-ii",
     "leetcode/0300-longest-increasing-subsequence",
-    "leetcode/0070-climbing-stairs"
+    "leetcode/0070-climbing-stairs",
+    "leetcode/0198-house-robber"
   ],
   "Array": [
     "leetcode/0215-kth-largest-element-in-an-array",
@@ -29,7 +30,8 @@
     "leetcode/0518-coin-change-ii",
     "leetcode/0948-bag-of-tokens",
     "leetcode/0063-unique-paths-ii",
-    "leetcode/0300-longest-increasing-subsequence"
+    "leetcode/0300-longest-increasing-subsequence",
+    "leetcode/0198-house-robber"
   ],
   "Divide and Conquer": [
     "leetcode/0215-kth-largest-element-in-an-array"
