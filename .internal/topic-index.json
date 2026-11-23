@@ -12,7 +12,8 @@
     "leetcode/0518-coin-change-ii",
     "leetcode/0062-unique-paths",
     "leetcode/0063-unique-paths-ii",
-    "leetcode/0300-longest-increasing-subsequence"
+    "leetcode/0300-longest-increasing-subsequence",
+    "leetcode/0070-climbing-stairs"
   ],
   "Array": [
     "leetcode/0215-kth-largest-element-in-an-array",
@@ -90,7 +91,8 @@
   ],
   "Math": [
     "leetcode/3432-count-partitions-with-even-sum-difference",
-    "leetcode/0062-unique-paths"
+    "leetcode/0062-unique-paths",
+    "leetcode/0070-climbing-stairs"
   ],
   "Prefix Sum": [
     "leetcode/3432-count-partitions-with-even-sum-difference"
@@ -112,5 +114,8 @@
   ],
   "Longest Increasing Subsequence": [
     "leetcode/0300-longest-increasing-subsequence"
+  ],
+  "Memoization": [
+    "leetcode/0070-climbing-stairs"
   ]
 }

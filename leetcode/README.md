@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**20** problems solved — 4 Easy · 16 Medium · 0 Hard
+**21** problems solved — 5 Easy · 16 Medium · 0 Hard
 
 ## Contents
 
@@ -21,6 +21,7 @@
 | 0057 | [Insert Interval](0057-insert-interval/README.md) | Medium | Array |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium | Math, Dynamic Programming, Combinatorics |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium | Array, Dynamic Programming, Matrix |
+| 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy | Math, Dynamic Programming, Memoization |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium | String, Dynamic Programming |
 | 0093 | [Restore IP Addresses](0093-restore-ip-addresses/README.md) | Medium | String, Backtracking |
 | 0215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/README.md) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect |
@@ -37,10 +38,11 @@
 
 ## By Difficulty
 
-### Easy (4)
+### Easy (5)
 
 | # | Title | Topics |
 | --- | --- | --- |
+| 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Math, Dynamic Programming, Memoization |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Array, Two Pointers, Greedy, Sorting, Quicksort |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Array, Greedy |
 | 1731 | [The Number of Employees Which Report to Each Employee](1731-the-number-of-employees-which-report-to-each-employee/README.md) | Database |
@@ -187,7 +189,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Dynamic Programming (8)</summary>
+<summary>Dynamic Programming (9)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -195,6 +197,7 @@ _No problems solved yet._
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
+| 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
 | 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium |
@@ -254,11 +257,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Math (2)</summary>
+<summary>Math (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium |
+| 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy |
 | 3432 | [Count Partitions with Even Sum Difference](3432-count-partitions-with-even-sum-difference/README.md) | Easy |
 
 </details>
@@ -269,6 +273,15 @@ _No problems solved yet._
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Memoization (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy |
 
 </details>
 
@@ -355,7 +368,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>python3 (19)</summary>
+<summary>python3 (20)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -366,6 +379,7 @@ _No problems solved yet._
 | 0057 | [Insert Interval](0057-insert-interval/README.md) | Medium |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium |
+| 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy |
 | 0091 | [Decode Ways](0091-decode-ways/README.md) | Medium |
 | 0093 | [Restore IP Addresses](0093-restore-ip-addresses/README.md) | Medium |
 | 0215 | [Kth Largest Element in an Array](0215-kth-largest-element-in-an-array/README.md) | Medium |
@@ -385,6 +399,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy | 2026-11-23 |
 | 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium | 2026-11-16 |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium | 2026-11-03 |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium | 2026-11-02 |
@@ -399,4 +414,3 @@ _No problems solved yet._
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium | 2026-10-28 |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | 2026-10-28 |
 | 0435 | [Non-overlapping Intervals](0435-non-overlapping-intervals/README.md) | Medium | 2026-10-26 |
-| 0669 | [Trim a Binary Search Tree](0669-trim-a-binary-search-tree/README.md) | Medium | 2026-10-25 |
