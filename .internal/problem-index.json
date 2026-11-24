@@ -307,5 +307,19 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-11-23T12:43:21.265Z"
+  },
+  {
+    "folderId": "leetcode/2498-frog-jump-ii",
+    "frontendId": "2498",
+    "title": "Frog Jump II",
+    "slug": "frog-jump-ii",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Binary Search",
+      "Greedy"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-11-24T16:18:09.320Z"
   }
 ]

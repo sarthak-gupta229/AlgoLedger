@@ -31,7 +31,8 @@
     "leetcode/0948-bag-of-tokens",
     "leetcode/0063-unique-paths-ii",
     "leetcode/0300-longest-increasing-subsequence",
-    "leetcode/0198-house-robber"
+    "leetcode/0198-house-robber",
+    "leetcode/2498-frog-jump-ii"
   ],
   "Divide and Conquer": [
     "leetcode/0215-kth-largest-element-in-an-array"
@@ -64,7 +65,8 @@
     "leetcode/0055-jump-game",
     "leetcode/0045-jump-game-ii",
     "leetcode/1400-construct-k-palindrome-strings",
-    "leetcode/0948-bag-of-tokens"
+    "leetcode/0948-bag-of-tokens",
+    "leetcode/2498-frog-jump-ii"
   ],
   "Quicksort": [
     "leetcode/0455-assign-cookies",
@@ -112,7 +114,8 @@
     "leetcode/0063-unique-paths-ii"
   ],
   "Binary Search": [
-    "leetcode/0300-longest-increasing-subsequence"
+    "leetcode/0300-longest-increasing-subsequence",
+    "leetcode/2498-frog-jump-ii"
   ],
   "Longest Increasing Subsequence": [
     "leetcode/0300-longest-increasing-subsequence"

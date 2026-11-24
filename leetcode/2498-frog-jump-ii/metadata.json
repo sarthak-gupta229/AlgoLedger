@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "2591",
+  "frontendId": "2498",
+  "title": "Frog Jump II",
+  "slug": "frog-jump-ii",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Greedy"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "40 ms",
+  "memory": "35.9 MB",
+  "submissionId": "2202704074",
+  "acceptedAt": "2026-11-24T16:18:09.320Z",
+  "updatedAt": "2026-11-24T16:18:10.272Z",
+  "url": "https://leetcode.com/problems/frog-jump-ii/",
+  "version": 1
+}

@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**22** problems solved — 5 Easy · 17 Medium · 0 Hard
+**23** problems solved — 5 Easy · 18 Medium · 0 Hard
 
 ## Contents
 
@@ -35,6 +35,7 @@
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium | Array, Two Pointers, Greedy, Sorting |
 | 1400 | [Construct K Palindrome Strings](1400-construct-k-palindrome-strings/README.md) | Medium | Hash Table, String, Greedy, Counting |
 | 1731 | [The Number of Employees Which Report to Each Employee](1731-the-number-of-employees-which-report-to-each-employee/README.md) | Easy | Database |
+| 2498 | [Frog Jump II](2498-frog-jump-ii/README.md) | Medium | Array, Binary Search, Greedy |
 | 3432 | [Count Partitions with Even Sum Difference](3432-count-partitions-with-even-sum-difference/README.md) | Easy | Array, Math, Prefix Sum |
 
 ## By Difficulty
@@ -49,7 +50,7 @@
 | 1731 | [The Number of Employees Which Report to Each Employee](1731-the-number-of-employees-which-report-to-each-employee/README.md) | Database |
 | 3432 | [Count Partitions with Even Sum Difference](3432-count-partitions-with-even-sum-difference/README.md) | Array, Math, Prefix Sum |
 
-### Medium (17)
+### Medium (18)
 
 | # | Title | Topics |
 | --- | --- | --- |
@@ -70,6 +71,7 @@
 | 0669 | [Trim a Binary Search Tree](0669-trim-a-binary-search-tree/README.md) | Tree, Depth-First Search, Binary Search Tree, Binary Tree |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Array, Two Pointers, Greedy, Sorting |
 | 1400 | [Construct K Palindrome Strings](1400-construct-k-palindrome-strings/README.md) | Hash Table, String, Greedy, Counting |
+| 2498 | [Frog Jump II](2498-frog-jump-ii/README.md) | Array, Binary Search, Greedy |
 
 ### Hard (0)
 
@@ -78,7 +80,7 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (15)</summary>
+<summary>Array (16)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -96,6 +98,7 @@ _No problems solved yet._
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
+| 2498 | [Frog Jump II](2498-frog-jump-ii/README.md) | Medium |
 | 3432 | [Count Partitions with Even Sum Difference](3432-count-partitions-with-even-sum-difference/README.md) | Easy |
 
 </details>
@@ -111,11 +114,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Binary Search (1)</summary>
+<summary>Binary Search (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium |
+| 2498 | [Frog Jump II](2498-frog-jump-ii/README.md) | Medium |
 
 </details>
 
@@ -210,7 +214,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Greedy (7)</summary>
+<summary>Greedy (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -221,6 +225,7 @@ _No problems solved yet._
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
 | 1400 | [Construct K Palindrome Strings](1400-construct-k-palindrome-strings/README.md) | Medium |
+| 2498 | [Frog Jump II](2498-frog-jump-ii/README.md) | Medium |
 
 </details>
 
@@ -372,7 +377,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>python3 (21)</summary>
+<summary>python3 (22)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -396,6 +401,7 @@ _No problems solved yet._
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium |
 | 1400 | [Construct K Palindrome Strings](1400-construct-k-palindrome-strings/README.md) | Medium |
+| 2498 | [Frog Jump II](2498-frog-jump-ii/README.md) | Medium |
 | 3432 | [Count Partitions with Even Sum Difference](3432-count-partitions-with-even-sum-difference/README.md) | Easy |
 
 </details>
@@ -404,6 +410,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 2498 | [Frog Jump II](2498-frog-jump-ii/README.md) | Medium | 2026-11-24 |
 | 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy | 2026-11-24 |
 | 0198 | [House Robber](0198-house-robber/README.md) | Medium | 2026-11-23 |
 | 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium | 2026-11-16 |
@@ -418,4 +425,3 @@ _No problems solved yet._
 | 0045 | [Jump Game II](0045-jump-game-ii/README.md) | Medium | 2026-10-28 |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy | 2026-10-28 |
 | 0055 | [Jump Game](0055-jump-game/README.md) | Medium | 2026-10-28 |
-| 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | 2026-10-28 |
