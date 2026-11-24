@@ -7,8 +7,8 @@
 | Field | Value |
 | --- | --- |
 | Runtime | 0 ms |
-| Memory | 19 MB |
-| Submission Date | 2026-11-23T12:42:34.614Z |
+| Memory | 19.1 MB |
+| Submission Date | 2026-11-24T10:10:44.169Z |
 | Platform | leetcode |
 
 ## Problem Statement
@@ -64,16 +64,18 @@
 ```py
 class Solution:
     def climbStairs(self, n: int) -> int:
-        if n<2:
-            return n
-        a, b = 1,2 
-        for i in range(3,n+1):
-            curr= a + b
-            a=b
-            b=curr
-        return b
-
-
+        dp=[-1 for _ in range(n+1)]
+        def f(i):
+            if i==0:
+                return 1
+            if i==1:
+                return 1
+            if dp[i]!=-1:
+                return dp[i]
+            ans=f(i-1)+f(i-2)
+            dp[i]=ans
+            return dp[i]
+        return f(n)
         
 ```
 
