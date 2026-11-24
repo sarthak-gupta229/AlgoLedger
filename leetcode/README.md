@@ -410,9 +410,9 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0198 | [House Robber](0198-house-robber/README.md) | Medium | 2026-11-24 |
 | 2498 | [Frog Jump II](2498-frog-jump-ii/README.md) | Medium | 2026-11-24 |
 | 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy | 2026-11-24 |
-| 0198 | [House Robber](0198-house-robber/README.md) | Medium | 2026-11-23 |
 | 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium | 2026-11-16 |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium | 2026-11-03 |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium | 2026-11-02 |
