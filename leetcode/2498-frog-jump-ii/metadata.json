@@ -12,11 +12,11 @@
   ],
   "companyTags": [],
   "language": "python3",
-  "runtime": "40 ms",
+  "runtime": "33 ms",
   "memory": "35.9 MB",
-  "submissionId": "2202704074",
-  "acceptedAt": "2026-11-24T16:18:09.320Z",
-  "updatedAt": "2026-11-24T16:18:10.272Z",
+  "submissionId": "2202705749",
+  "acceptedAt": "2026-11-24T16:20:42.328Z",
+  "updatedAt": "2026-11-24T16:20:42.976Z",
   "url": "https://leetcode.com/problems/frog-jump-ii/",
-  "version": 1
+  "version": 2
 }

@@ -6,9 +6,9 @@
 
 | Field | Value |
 | --- | --- |
-| Runtime | 40 ms |
+| Runtime | 33 ms |
 | Memory | 35.9 MB |
-| Submission Date | 2026-11-24T16:18:09.320Z |
+| Submission Date | 2026-11-24T16:20:42.328Z |
 | Platform | leetcode |
 
 ## Problem Statement
@@ -77,12 +77,15 @@ It can be shown that this is the minimum achievable cost.
 ```py
 class Solution:
     def maxJump(self, stones: List[int]) -> int:
+        n=len(stones)
         ans = 0
+        if n==2:
+            return stones[n-1]-stones[0]
 
         for i in range(2, len(stones)):
             ans = max(ans, stones[i] - stones[i-2])
 
-        return max(ans, stones[1] - stones[0])
+        return ans
     
 
     
