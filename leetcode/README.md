@@ -415,13 +415,13 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium | 2026-11-25 |
 | 0213 | [House Robber II](0213-house-robber-ii/README.md) | Medium | 2026-11-25 |
 | 0198 | [House Robber](0198-house-robber/README.md) | Medium | 2026-11-24 |
 | 2498 | [Frog Jump II](2498-frog-jump-ii/README.md) | Medium | 2026-11-24 |
 | 0070 | [Climbing Stairs](0070-climbing-stairs/README.md) | Easy | 2026-11-24 |
 | 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium | 2026-11-16 |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium | 2026-11-03 |
-| 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium | 2026-11-02 |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium | 2026-10-31 |
 | 1400 | [Construct K Palindrome Strings](1400-construct-k-palindrome-strings/README.md) | Medium | 2026-10-31 |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium | 2026-10-30 |

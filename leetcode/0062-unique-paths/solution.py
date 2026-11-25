@@ -1,5 +1,5 @@
-# Runtime: 1 ms
-# Memory: 18.9 MB
+# Runtime: 0 ms
+# Memory: 19.2 MB
 
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
