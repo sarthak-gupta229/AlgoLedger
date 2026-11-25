@@ -21,7 +21,8 @@
     "leetcode/0300-longest-increasing-subsequence",
     "leetcode/0070-climbing-stairs",
     "leetcode/0198-house-robber",
-    "leetcode/2498-frog-jump-ii"
+    "leetcode/2498-frog-jump-ii",
+    "leetcode/0213-house-robber-ii"
   ],
   "postgresql": [
     "leetcode/1731-the-number-of-employees-which-report-to-each-employee"
