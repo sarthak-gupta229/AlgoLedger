@@ -421,6 +421,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 1400 | [Construct K Palindrome Strings](1400-construct-k-palindrome-strings/README.md) | Medium | 2026-11-26 |
 | 0064 | [Minimum Path Sum](0064-minimum-path-sum/README.md) | Medium | 2026-11-25 |
 | 0062 | [Unique Paths](0062-unique-paths/README.md) | Medium | 2026-11-25 |
 | 0213 | [House Robber II](0213-house-robber-ii/README.md) | Medium | 2026-11-25 |
@@ -430,7 +431,6 @@ _No problems solved yet._
 | 0300 | [Longest Increasing Subsequence](0300-longest-increasing-subsequence/README.md) | Medium | 2026-11-16 |
 | 0063 | [Unique Paths II](0063-unique-paths-ii/README.md) | Medium | 2026-11-03 |
 | 0948 | [Bag of Tokens](0948-bag-of-tokens/README.md) | Medium | 2026-10-31 |
-| 1400 | [Construct K Palindrome Strings](1400-construct-k-palindrome-strings/README.md) | Medium | 2026-10-31 |
 | 0518 | [Coin Change II](0518-coin-change-ii/README.md) | Medium | 2026-10-30 |
 | 3432 | [Count Partitions with Even Sum Difference](3432-count-partitions-with-even-sum-difference/README.md) | Easy | 2026-10-29 |
 | 0057 | [Insert Interval](0057-insert-interval/README.md) | Medium | 2026-10-29 |

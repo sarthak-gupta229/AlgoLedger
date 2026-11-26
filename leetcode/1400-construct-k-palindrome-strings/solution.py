@@ -1,4 +1,4 @@
-# Runtime: 53 ms
+# Runtime: 56 ms
 # Memory: 19.7 MB
 
 class Solution:

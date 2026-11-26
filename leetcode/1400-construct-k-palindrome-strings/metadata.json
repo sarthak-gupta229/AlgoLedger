@@ -13,11 +13,11 @@
   ],
   "companyTags": [],
   "language": "python3",
-  "runtime": "53 ms",
+  "runtime": "56 ms",
   "memory": "19.7 MB",
-  "submissionId": "2186325951",
-  "acceptedAt": "2026-10-31T16:21:16.366Z",
-  "updatedAt": "2026-10-31T16:21:17.252Z",
+  "submissionId": "2204159239",
+  "acceptedAt": "2026-11-26T19:49:10.011Z",
+  "updatedAt": "2026-11-26T19:49:10.932Z",
   "url": "https://leetcode.com/problems/construct-k-palindrome-strings/",
-  "version": 2
+  "version": 3
 }
